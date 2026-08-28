@@ -1,0 +1,5 @@
+redis
+numpy
+opencv-python
+pipewire-capture
+ipykernel
